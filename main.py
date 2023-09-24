@@ -19,4 +19,5 @@ while flag == True:
         continue
     else:
         print("Возвращайтесь если возникнут вопросы!")
+        flag = False
         break
